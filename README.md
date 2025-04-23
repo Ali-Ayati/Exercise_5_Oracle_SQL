@@ -44,19 +44,19 @@ Each query is saved in a separate file: `q1.sql` to `q4.sql`
 4. تراکنش مانده گیری: 750 تومان
 5. تراکنش خرید شارژ: 750 تومان
 
-*Calculate the total transaction fee per terminal per month based on the following logic:
+*Calculate the total transaction fee per terminal per month based on the following logic:*
 
-Purchase transactions:
+*Purchase transactions:*
 
-Amount under 5,000 → 230 IRR
+*Amount under 5,000 → 230 IRR*
 
-Amount between 5,000 and 25,000 → 250 IRR minus 0.01% of the amount (including VAT)
+*Amount between 5,000 and 25,000 → 250 IRR minus 0.01% of the amount (including VAT)*
 
-Amount above 25,000 → 2,060 IRR
+*Amount above 25,000 → 2,060 IRR*
 
-Balance inquiry: 750 IRR
+*Balance inquiry: 750 IRR*
 
-Mobile charge purchase: 750 IRR*
+*Mobile charge purchase: 750 IRR*
 
 ---
 
